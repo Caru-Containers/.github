@@ -1,11 +1,10 @@
 <!-- Banner: replace with your own image at profile/img/banner.png (recommended ~1280x400) -->
 <p align="center">
   <a href="https://www.carucontainers.com">
-    <img src="./img/caru-containers-logo-white-2.png" alt="CARU Containers" width="100%">
+    <img src="./img/caru-containers-logo-white-2.png" alt="CARU Containers" width="50%">
   </a>
 </p>
 
-<h1 align="center">CARU Containers</h1>
 <p align="center"><strong>Your global container partner — always on the move.</strong></p>
 
 <p align="center">
