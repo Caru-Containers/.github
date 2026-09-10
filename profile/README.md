@@ -1,7 +1,7 @@
 <!-- Banner: replace with your own image at profile/img/banner.png (recommended ~1280x400) -->
 <p align="center">
   <a href="https://www.carucontainers.com">
-    <img src="./img/caru-containers-logo-white-2.png" alt="CARU Containers" width="50%">
+    <img src="./img/caru-containers-logo-white-2.png" alt="CARU Containers" width="25%">
   </a>
 </p>
 
